@@ -1,5 +1,7 @@
 # Module01-Challenge
 
+This is an HTML-Git-CSS code refractor challenege. 
+I have adjusted the existing code to meet the following acceptance criteria and requirements for the project:
 
 Grading Requirements
 
