@@ -1,7 +1,18 @@
 # Module01-Challenge
+CPhelps 06/03/2024
 
-This is an HTML-Git-CSS code refractor challenege. 
-I have adjusted the existing code to meet the following acceptance criteria and requirements for the project:
+## Languages used:
+    HTML
+    CSS
+
+## Tools used:
+    WAVE Evaluation Tool
+    GitBash
+    VS Code
+
+## About the project:
+    This is an HTML-Git-CSS code refractor challenege. 
+    I have adjusted the existing code to meet the following acceptance criteria and requirements for the project:
 
 Grading Requirements
 
